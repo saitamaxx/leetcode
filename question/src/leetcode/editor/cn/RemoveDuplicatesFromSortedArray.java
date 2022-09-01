@@ -1,6 +1,6 @@
 package leetcode.editor.cn;
 
-public class RemoveDuplicatesFromSortedArray{
+public class RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {
         Solution solution = new RemoveDuplicatesFromSortedArray().new Solution();
     }
